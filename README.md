@@ -63,7 +63,7 @@
     <h2>Ferramentas</h2>
     <ul>
         <li><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Badge Java"></li>
-        <li><img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white" alt="Badge IntelliJ IDEA"></li>
+        <li><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Badge VSCode"></li>
         <li><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Badge Git"></li>
         <li><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Badge GitHub"></li>
     </ul>
