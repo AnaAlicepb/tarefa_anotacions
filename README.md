@@ -12,7 +12,7 @@
 
 <header>
     <h1>Projeto Java: Utilização da Anotação <code>@Tabela</code></h1>
-    <img src="/img/anotacions1.png" alt="resultado" width="300" height="auto">
+    <img src="./img/anotacions1.png" alt="resultado" width="300" height="auto">
 </header>
 
 <details>
